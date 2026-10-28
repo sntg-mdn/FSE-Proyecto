@@ -5,7 +5,7 @@ const btnConectarBT = document.getElementById('btnConectarBT');
 const btnIniciarVoz = document.getElementById('btnIniciarVoz');
 
 // Configuración
-const INTEGRANTES = ['david']; 
+const INTEGRANTES = ['david', 'santiago', 'abner']; 
 const RUTA_MODELOS = './models';
 const RUTA_FOTOS = './registros';
 const UMBRAL_DISTANCIA = 0.50;
